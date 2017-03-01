@@ -16,6 +16,27 @@ a:hover {
     text-decoration: underline;
 }
 
+/* Document Meta Banner */
+#banner {
+    position: fixed;
+    z-index: 2;
+    text-align: right;
+    background: linear-gradient(to bottom, #fff 0%, #fff 85%, #ccc 85%, rgba(204, 204, 204, 0) 100%);
+    padding: 1em 1em;
+    top: 0;
+    left: 0;
+    right: 0;
+}
+
+#banner a {
+    font-size: 1.25em;
+    color: #666;
+}
+
+#content {
+    margin-top: 3em;
+}
+
 /* Page Heading */
 h1 {
     float: left;
@@ -64,6 +85,7 @@ hr + p > code {
     font-size: 0.1em;
     font-size: 1.05vw;
     top: -0.5em;
+    z-index: 1;
 }
 
 /* Section Heading */

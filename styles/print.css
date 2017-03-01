@@ -25,3 +25,13 @@ h2 ~ ul > li {
     border-bottom: 0.2em dotted;
     border-color: #ccc;
 }
+
+/* Hide the web navigation banner and reset the content margin. */
+
+#banner {
+    display: none;
+}
+
+#content {
+    margin-top: auto;
+}
