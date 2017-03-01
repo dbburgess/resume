@@ -15,7 +15,7 @@ Daniel is a full stack software engineer with a broad set of skills and experien
 
 `2013-present`
 **Fitnet:**
-_Lead Software Engineer | _Blacksburg, VA_
+_Lead Software Engineer_ | _Blacksburg, VA_
 * Technical architect and leader of agile development team of five people creating award winning app (and infrastructure) with 400k+ downloads, numerous prominent App Store feature positions by Apple, promotional partnerships with Google, etc.
 * Oversaw five major releases and dozens of updates / prototypes of iOS & Android apps _(Swift, Objective-C, Java, Lua, Corona)_.
 * Managed Fitnet API & supporting infrastructure, scaling to peak 10k+ daily active users _(PHP, MySQL, Python, AWS, Firebase)_.
