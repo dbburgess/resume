@@ -34,7 +34,8 @@ a:hover {
 }
 
 #content {
-    margin-top: 3em;
+    margin: 3em auto 0;
+    max-width: 12in;
 }
 
 /* Page Heading */
@@ -177,6 +178,19 @@ h2#social--community-presence + ul {
 
 i.fa > span.label {
     display: none;
+}
+
+/* Adjustments for larger screens */
+@media only screen and (min-width: 12in) {
+
+    /* Tweak the Code Snippet font */
+    hr + p {
+        font-size: 1.02em;
+    }
+
+    hr + p > code {
+        font-size: 1.02em;
+    }
 }
 
 /* Adjustments for smaller screens */
