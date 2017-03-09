@@ -48,7 +48,7 @@ _Night Auditor & Front Desk Clerk_ | _Blacksburg, VA_
 **Radford University**
 |
 _B.S. Computer Science & Technology_
-* Concentrations: Software Engineering \| Database `GPA: 4.0/4.0`
+* Concentrations: Software Engineering \| Database `GPA: 4.0 / 4.0`
 * _Involvement: Association for Computing Machinery, Upsilon Pi Epsilon, Phi Kappa Phi & Cru_
 
 `May, 2008`
